@@ -1,0 +1,33 @@
+body {
+    font-size: 15pt;
+    background-image: url(0101.jpeg);
+    color: orange;
+}
+.welcome{
+  align-items: center;
+  left: 50%;
+  right: 50%;
+}
+button{
+  color: rgba(82, 86, 137, 1);
+  background-color: rgba(41, 138, 33, 1);
+  height: 50px;
+  width: 375px;
+  border-radius: 20%;
+}
+img{
+  height: 100px;
+  width: 100px;
+}
+span{
+  border-radius: 50%;
+}
+hr{
+  margin-top: 20px;
+  width: 90%;
+}
+.or{
+  background: hsla(235, 44%, 28%, 1);
+  width: 40px;
+  margin: -19px auto 10px;
+}
